@@ -116,5 +116,5 @@ EOF
 docker-compose -f jenkins_compose.yml build up -d
 
 #####访问；
-http://212.64.6.67:8888/jenkins/     admin/QWE@123.com
-http://212.64.6.67:9090/   root/QWE@123.com
+http://XXXX:8888/jenkins/     admin/QWE@1XXXXm
+http://XXXX:9090/   root/QWE@1XXXXm
