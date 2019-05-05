@@ -10,7 +10,7 @@ services:
       - 3316:3306
     environment:
       - MYSQL_DATABASE=eajucloud
-      - MYSQL_ROOT_PASSWORD=anbang@123
+      - MYSQL_ROOT_PASSWORD=XXXX@123
     volumes:
       - /data/mysql/Mer_DT/3306/data:/var/lib/mysql:rw
       - /etc/localtime:/etc/localtime:ro
